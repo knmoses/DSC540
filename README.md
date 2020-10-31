@@ -5,6 +5,6 @@ Data Wrangling
 
 
 ## Programming Language
-
+Python, Jupyter Notebook
 
 ## Data

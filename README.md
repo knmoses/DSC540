@@ -4,6 +4,10 @@ Data Wrangling
 ## About
 This project attempts to predict who could win the Stanley Cup
 
+## File Information
+
+## Results
+
 ## Programming Language
 Python, Jupyter Notebook
 

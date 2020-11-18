@@ -5,8 +5,10 @@ Data Wrangling
 This project attempts to predict who could win the Stanley Cup
 
 ## File Information
+Jupyter Notebook Code: "DSC 540 - Term Project.ipynb"
 
 ## Results
+Inconclusive results. The data was formatted, cleaned, and visualized.
 
 ## Programming Language
 Python, Jupyter Notebook
